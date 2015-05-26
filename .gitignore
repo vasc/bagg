@@ -1,0 +1,6 @@
+tmp/
+node_modules/
+static/css
+static/index.js*
+static/bower_components/
+.DS_Store

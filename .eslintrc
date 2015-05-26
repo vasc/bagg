@@ -1,0 +1,16 @@
+{
+  "env": {
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "quotes": [2, "double"]
+  },
+  "globals": {
+    "angular": false,
+    "d3": false,
+    "Tooltip": false,
+    "Tether": false
+  }
+}
